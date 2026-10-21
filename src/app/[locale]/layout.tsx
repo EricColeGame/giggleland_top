@@ -22,10 +22,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const title = "Giggleland Wiki";
+  const description = "Explore Giggleland with walkthroughs, puzzle solutions, character details, story clues, endings, and beginner tips for this upcoming first-person horror adventure.";
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Giggleland Wiki", template: "%s" },
-    description: "Explore Giggleland with walkthroughs, puzzle solutions, character details, story clues, endings, and beginner tips for the upcoming first-person horror adventure.",
+    title: { default: title, template: "%s" },
+    description,
+    keywords: ["Giggleland", "Giggleland Wiki", "walkthrough", "puzzle solutions", "endings", "horror game"],
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -35,8 +38,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title, description, images: [{ url: image, width: 1438, height: 810, alt: "Giggleland amusement park key art" }] },
+    twitter: { card: "summary_large_image", title, description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -49,10 +52,11 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const organization = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: siteConfig.name,
-    url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "name": siteConfig.name,
+    "url": siteUrl,
+    "logo": { "@type": "ImageObject", "url": `${siteUrl}/android-chrome-512x512.png`, "width": 512, "height": 512 },
+    "image": `${siteUrl}/images/hero.webp`,
+    "sameAs": [siteConfig.social?.website, siteConfig.gameUrl, siteConfig.social?.discord, siteConfig.social?.youtube].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

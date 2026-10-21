@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Giggleland Wiki",
+    "shortName": "Giggleland",
+    "tagline": "Walkthroughs, Puzzles & Endings",
+    "description": "Explore Giggleland with walkthroughs, puzzle solutions, character details, story clues, endings, and beginner tips for the upcoming first-person horror adventure.",
+    "legalNotice": "Unofficial fan wiki. Not affiliated with Giggleland's developers or publishers."
   },
   "nav": {
     "races": "Races",
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Giggleland Wiki - Walkthrough, Puzzles & Endings",
+      "description": "Explore Giggleland with walkthroughs, puzzle solutions, character details, story clues, endings, and beginner tips for this upcoming first-person horror adventure."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "First-Person Psychological Horror Adventure",
+      "title": "Giggleland Wiki",
+      "description": "Explore a mysterious amusement park, solve puzzles, uncover hidden clues, and follow Tolie's search for her missing father in Giggleland.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "5.5K+ Steam Followers",
+        "Playable Demo",
+        "Expected Release: Oct 26, 2026",
+        "Single-player"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Play Demo on Steam",
+      "secondaryCta": "Visit Official Website",
+      "tertiaryCta": "Watch Official Trailer",
+      "videoLabel": "Official Steam Teaser Trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Explore Giggleland?",
+      "description": "Follow Tolie into the amusement park, solve its puzzles, and uncover the secrets behind her missing father with our community guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play Demo on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Giggleland Wiki",
+    "about": "Giggleland Wiki is an independent fan-built guide hub covering walkthroughs, puzzle solutions, character details, story clues, endings, and beginner tips for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Giggleland Wiki. Not affiliated with Giggleland's developers or publishers.",
+    "description": "First-person psychological horror adventure. Explore the park, solve puzzles, and uncover the mystery.",
+    "playGame": "Play Demo on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",

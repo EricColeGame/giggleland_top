@@ -1,7 +1,8 @@
 "use client";
 
+import { siteConfig } from "@/config/site";
 import Link from "next/link";
-import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
+import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, ExternalLink, Flame, Map as MapIcon, Play, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -32,6 +33,23 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
           <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl">{home.hero.title}</h1>
           <p className="mt-5 max-w-2xl text-base leading-relaxed text-white/80">{home.hero.description}</p>
           <div className="mt-6 flex flex-wrap items-center gap-2">{home.hero.stats.map((stat) => <span key={stat} className="inline-flex items-center gap-1 rounded-full border border-white/15 bg-white/10 px-2.5 py-1 text-xs font-medium text-white/85 backdrop-blur-sm">{stat}</span>)}</div>
+          <div className="mt-7 flex flex-wrap gap-3">
+            <Button asChild size="lg">
+              <a href={siteConfig.gameUrl} target="_blank" rel="noopener noreferrer">
+                <Play className="mr-2 h-4 w-4" />{home.hero.primaryCta}
+              </a>
+            </Button>
+            <Button asChild size="lg" variant="secondary">
+              <a href={siteConfig.social?.website} target="_blank" rel="noopener noreferrer">
+                {home.hero.secondaryCta}<ExternalLink className="ml-2 h-4 w-4" />
+              </a>
+            </Button>
+            <Button asChild size="lg" variant="outline" className="border-white/30 bg-white/10 text-white hover:bg-white/20 hover:text-white">
+              <a href={`https://www.youtube.com/watch?v=${YOUTUBE_VIDEO_ID}`} target="_blank" rel="noopener noreferrer">
+                <Play className="mr-2 h-4 w-4" />{home.hero.tertiaryCta}
+              </a>
+            </Button>
+          </div>
         </div>
       </section>
 
@@ -248,7 +266,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
       <section><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.faq.title}</h2><p className="mt-2 text-muted-foreground">{home.faq.description}</p><Accordion type="single" collapsible className="mt-6 rounded-2xl border border-border bg-card/70 px-5">{home.faq.items.map((item, index) => <AccordionItem key={item.question} value={`item-${index}`}><AccordionTrigger className="text-left text-foreground">{item.question}</AccordionTrigger><AccordionContent className="leading-7 text-muted-foreground">{item.answer}</AccordionContent></AccordionItem>)}</Accordion></section>
 
       {/* Final CTA (curated, stays in JSON) */}
-      <section className="rounded-3xl border border-border bg-gradient-to-br from-muted to-card p-8 text-center"><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.finalCta.title}</h2><p className="mx-auto mt-3 max-w-2xl text-muted-foreground">{home.finalCta.description}</p><div className="mt-6 flex flex-wrap justify-center gap-3"><Button asChild size="lg"><Link href={localizeHref("/guide", locale)}>{home.finalCta.primary}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button><Button asChild size="lg" variant="outline"><Link href="https://store.steampowered.com/app/3370490/Giggleland/">{home.finalCta.secondary}</Link></Button></div></section>
+      <section className="rounded-3xl border border-border bg-gradient-to-br from-muted to-card p-8 text-center"><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.finalCta.title}</h2><p className="mx-auto mt-3 max-w-2xl text-muted-foreground">{home.finalCta.description}</p><div className="mt-6 flex flex-wrap justify-center gap-3"><Button asChild size="lg"><Link href={localizeHref("/guide", locale)}>{home.finalCta.primary}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button><Button asChild size="lg" variant="outline"><a href={siteConfig.gameUrl} target="_blank" rel="noopener noreferrer">{home.finalCta.secondary}</a></Button></div></section>
 
       {/* Bottom leaderboard (course §3.5) */}
       <AdBanner size="728x90" />
