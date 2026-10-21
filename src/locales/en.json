@@ -6,7 +6,15 @@
     "description": "Explore Giggleland with walkthroughs, puzzle solutions, character details, story clues, endings, and beginner tips for the upcoming first-person horror adventure.",
     "legalNotice": "Unofficial fan wiki. Not affiliated with Giggleland's developers or publishers."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "release": "Release",
+    "secrets": "Secrets",
+    "characters": "Characters",
+    "safety": "Safety",
+    "media": "Media",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Giggleland Wiki - Walkthrough, Puzzles & Endings",
@@ -443,7 +451,34 @@
       "secondary": "Play Demo on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Giggleland Guides",
+    "overviewDescription": "Walkthroughs, beginner tips, demo help, story explanations, and ending breakdowns for every stage of Giggleland."
+  },
+  "release": {
+    "overviewTitle": "Giggleland Release and Updates",
+    "overviewDescription": "Track the Giggleland release date, full-game status, cancellation rumors, and the latest development updates."
+  },
+  "secrets": {
+    "overviewTitle": "Giggleland Secrets",
+    "overviewDescription": "Explore Giggleland ARG clues, hidden endings, secret episodes, screenshots, and the scares waiting inside the park."
+  },
+  "characters": {
+    "overviewTitle": "Giggleland Characters",
+    "overviewDescription": "Meet Tolie, Eliot, Ella, Farmer Terry, and the monsters connected to Giggleland Park and its mystery."
+  },
+  "safety": {
+    "overviewTitle": "Giggleland Safety",
+    "overviewDescription": "Check Giggleland age ratings, PC security concerns, virus rumors, and what players should know before downloading."
+  },
+  "media": {
+    "overviewTitle": "Giggleland Media",
+    "overviewDescription": "Watch Giggleland trailers and demo gameplay, then explore fan art, game theories, and the theme song."
+  },
+  "community": {
+    "overviewTitle": "Giggleland Community",
+    "overviewDescription": "Find the Giggleland Discord and Reddit community, follow fan news, and discover games like Giggleland."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -474,9 +509,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Character Guides",
+    "bossGuides": "Story Guides",
+    "buildGuide": "Secrets",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
