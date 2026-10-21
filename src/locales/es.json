@@ -1,1 +1,518 @@
-{}
+{
+  "site": {
+    "name": "Giggleland Wiki",
+    "shortName": "Giggleland",
+    "tagline": "Guías, puzles y finales",
+    "description": "Explora Giggleland con guías, soluciones a los puzles, detalles de los personajes, pistas de la historia, finales y consejos para principiantes de esta próxima aventura de terror en primera persona.",
+    "legalNotice": "Wiki de fans no oficial. No está afiliada a los desarrolladores ni a los editores de Giggleland."
+  },
+  "nav": {
+    "guide": "Guía",
+    "release": "Lanzamiento",
+    "secrets": "Secretos",
+    "characters": "Personajes",
+    "safety": "Seguridad",
+    "media": "Multimedia",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "Giggleland Wiki: guía, puzles y finales",
+      "description": "Explora Giggleland con guías, soluciones a los puzles, detalles de los personajes, pistas de la historia, finales y consejos para principiantes de esta próxima aventura de terror en primera persona."
+    },
+    "hero": {
+      "eyebrow": "Aventura de terror psicológico en primera persona",
+      "title": "Giggleland Wiki",
+      "description": "Explora un misterioso parque de diversiones, resuelve puzles, descubre pistas ocultas y sigue la búsqueda de Tolie de su padre desaparecido en Giggleland.",
+      "stats": [
+        "5.5K+ seguidores en Steam",
+        "Demo jugable",
+        "Lanzamiento previsto: 26 oct 2026",
+        "Un jugador"
+      ],
+      "primaryCta": "Jugar a la demo en Steam",
+      "secondaryCta": "Visitar la web oficial",
+      "tertiaryCta": "Ver el tráiler oficial",
+      "videoLabel": "Tráiler oficial de Steam"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje por Giggleland",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende los controles, las prioridades de configuración, la exploración inicial y los hábitos que hacen más fluidas tus primeras dos horas en Giggleland."
+        },
+        {
+          "number": "2",
+          "title": "Guía de la demo",
+          "description": "Encuentra la demo gratuita de Steam y usa una lista de comprobación práctica para tu primera visita a Terry's Vegetable Patch."
+        },
+        {
+          "number": "3",
+          "title": "Soluciones a los puzles",
+          "description": "Analiza carteles, notas, puertas cerradas y pistas del entorno sin perder de vista la historia."
+        },
+        {
+          "number": "4",
+          "title": "Historia y finales",
+          "description": "Sigue la búsqueda de Tolie, la historia de Giggleland Park y las pistas que dan forma al final del juego."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Guía de la demo",
+        "Lista de personajes",
+        "Requisitos para PC"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes de Giggleland",
+          "description": "Controles, prioridades de configuración, hábitos de exploración y un plan práctico para tus primeras dos horas en Giggleland.",
+          "href": "/guide/giggleland-beginner-guide"
+        },
+        {
+          "badge": "Demo",
+          "title": "Guía de la demo de Giggleland",
+          "description": "Qué esperar de Terry's Vegetable Patch y cómo aprovechar al máximo la demo gratuita de Steam.",
+          "href": "/guide/giggleland-demo-guide"
+        },
+        {
+          "badge": "Guía",
+          "title": "Guía de Giggleland",
+          "description": "Una ruta que evita spoilers por el parque, sus puzles y las pistas del ARG escondidas en la demo.",
+          "href": "/guide/giggleland-walkthrough"
+        },
+        {
+          "badge": "Personajes",
+          "title": "Personajes de Giggleland",
+          "description": "Conoce a Tolie, Eliot, Ella, Farmer Terry y el resto del reparto relacionado con el misterio del parque.",
+          "href": "/characters/giggleland-characters"
+        },
+        {
+          "badge": "Historia",
+          "title": "Finales de Giggleland explicados",
+          "description": "Compara las principales teorías del final y las pistas detrás de la máscara, el parque y los niños desaparecidos.",
+          "href": "/guide/giggleland-ending-explained"
+        },
+        {
+          "badge": "Requisitos",
+          "title": "Requisitos de PC de Giggleland",
+          "description": "Especificaciones mínimas oficiales, necesidades de almacenamiento, soporte de idiomas y estado de compatibilidad de Steam Deck.",
+          "href": "/release/giggleland-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Giggleland?",
+      "paragraphs": [
+        "Giggleland es un juego de terror psicológico en primera persona ambientado en un parque de atracciones donde alegres mascotas y normas para los visitantes esconden una historia mucho más oscura. Los jugadores guían a Tolie, una niña silenciosa que busca a su padre desaparecido, a través de ocho capítulos que van desde la granja de Farmer Terry hasta los túneles bajo el parque.",
+        "El juego combina la exploración del entorno, la resolución de puzles, pistas ocultas y un reparto con voces completas durante unas seis horas. Una demo gratuita, Giggleland: Terry's Vegetable Patch, está disponible en Steam antes del lanzamiento del 26 de octubre de 2026."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Género",
+          "value": "Terror psicológico"
+        },
+        {
+          "label": "Perspectiva",
+          "value": "Primera persona"
+        },
+        {
+          "label": "Capítulos",
+          "value": "8"
+        },
+        {
+          "label": "Duración",
+          "value": "Unas 6 horas"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "26 oct 2026"
+        },
+        {
+          "label": "Demo",
+          "value": "Disponible ahora"
+        }
+      ],
+      "cta": "Explorar las guías de Giggleland"
+    },
+    "explore": {
+      "title": "Explorar Giggleland Wiki",
+      "description": "Usa estas guías de Giggleland para planificar tu primera sesión, resolver los puzles del parque, seguir la historia y comprobar los requisitos de PC antes del lanzamiento.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Giggleland",
+          "description": "Aprende los controles, las prioridades de configuración, la exploración inicial y los hábitos que hacen más fluidas tus primeras dos horas en Giggleland.",
+          "href": "/guide/giggleland-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Reconfigura todo lo que te resulte incómodo, activa los subtítulos y sube los efectos por encima de la música."
+            },
+            {
+              "label": "2",
+              "detail": "Completa la introducción sin saltártela; enseña las interacciones que usarás durante todo el juego."
+            },
+            {
+              "label": "3",
+              "detail": "Recorre la primera zona y memoriza tres puntos de referencia para orientarte mejor."
+            },
+            {
+              "label": "4",
+              "detail": "Practica un arma o habilidad en un área de bajo riesgo antes de un encuentro tenso."
+            },
+            {
+              "label": "5",
+              "detail": "Los objetos recogibles, los diarios y los textos del entorno contienen pistas de puzles y contexto de la historia."
+            },
+            {
+              "label": "6",
+              "detail": "Vuelve a las puertas cerradas y a las salas laterales después de conseguir cada objeto o llave."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de la demo de Giggleland",
+          "description": "Encuentra la demo gratuita de Steam, compárala con el juego completo y usa una lista de comprobación práctica para Terry's Vegetable Patch.",
+          "href": "/guide/giggleland-demo-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Demo",
+              "detail": "Giggleland: Terry's Vegetable Patch es una demo independiente y gratuita en Steam."
+            },
+            {
+              "label": "Historia",
+              "detail": "La demo cuenta una historia autónoma con un final propio."
+            },
+            {
+              "label": "Escenario",
+              "detail": "Los jugadores exploran una atracción con temática agrícola dentro de Giggleland Park."
+            },
+            {
+              "label": "Puzles",
+              "detail": "El bucle central combina mecánicas de exploración, resolución de puzles y escape."
+            },
+            {
+              "label": "Duración",
+              "detail": "La demo es lo bastante corta para terminarla en una sola sesión."
+            },
+            {
+              "label": "Capturar",
+              "detail": "Juega en modo ventana y prueba la captura de ventana antes de emitir o grabar."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Personajes de Giggleland",
+          "description": "Conoce al reparto de Giggleland y descubre cómo Tolie, Eliot, Ella y el resto de personajes se conectan con la historia del parque.",
+          "href": "/characters/giggleland-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Tolie: protagonista silenciosa que busca a su padre desaparecido."
+            },
+            {
+              "label": "A",
+              "detail": "Eliot: el alegre guía y asistente del anfitrión del parque."
+            },
+            {
+              "label": "B",
+              "detail": "Ella: perro antropomórfico y mejor amigo de Eliot."
+            },
+            {
+              "label": "C",
+              "detail": "Farmer Terry, Debbie, Rory, Sarah, Simon y Mr. T completan la lista."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de puzles de Giggleland",
+          "description": "Resuelve carteles, notas, puertas cerradas y pistas del entorno con una guía de puzles que evita spoilers.",
+          "href": "/guide/giggleland-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "La señalización del parque oculta nombres, fechas y símbolos utilizados en puzles posteriores."
+            },
+            {
+              "label": "2",
+              "detail": "Revisa estantes, cajones y escritorios en busca de notas, diarios y objetos clave."
+            },
+            {
+              "label": "3",
+              "detail": "Las descripciones del inventario pueden indicar a dónde pertenece un artículo."
+            },
+            {
+              "label": "4",
+              "detail": "La demo vuelve sobre sus pasos, por lo que los objetos nuevos abren puertas anteriores."
+            },
+            {
+              "label": "5",
+              "detail": "Registre símbolos y secuencias numéricas tan pronto como aparezcan."
+            },
+            {
+              "label": "6",
+              "detail": "Explora caminos secundarios e interacciones que rompen las reglas en lugar de apresurar los objetivos."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Historia y trasfondo de Giggleland",
+          "description": "Sigue la historia de Giggleland Park, los dibujos animados de Eliot y Ella, el diario de Debbie y el misterio de KMW.",
+          "href": "/guide/giggleland-lore-explained",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Parque",
+              "detail": "Giggleland Park combina mascotas alegres con una historia más oscura debajo de la atracción."
+            },
+            {
+              "label": "Tolie",
+              "detail": "Tolie entra al parque para encontrar a su padre desaparecido."
+            },
+            {
+              "label": "Eliot",
+              "detail": "Eliot recibe a los visitantes como un guía implacablemente alegre."
+            },
+            {
+              "label": "Reglas",
+              "detail": "Mantente en el camino, permanece visible y nunca abras una puerta exclusiva para el personal."
+            },
+            {
+              "label": "KMW",
+              "detail": "Kids Media Workshop conecta los dibujos animados, el ARG y la historia de fondo del parque."
+            },
+            {
+              "label": "Diario",
+              "detail": "El diario oculto de Debbie vincula a los creadores de los dibujos animados con el parque y sus niños desaparecidos."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Finales de Giggleland explicados",
+          "description": "Compara las principales teorías del final de Giggleland y rastrea las pistas detrás de la máscara, el parque y los niños desaparecidos.",
+          "href": "/guide/giggleland-ending-explained",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Máscara",
+              "detail": "La sonrisa de la mascota puede ocultar algo depredador bajo la alegría del parque."
+            },
+            {
+              "label": "Parque",
+              "detail": "La atracción puede servir como fachada para un experimento o encubrimiento corporativo."
+            },
+            {
+              "label": "Bucle",
+              "detail": "El final de un ciclo podría restablecer el recorrido y obligar a que la historia se repita."
+            },
+            {
+              "label": "Identidad",
+              "detail": "El personaje principal puede ser la atracción que se estudia más que un invitado."
+            },
+            {
+              "label": "Encubrimiento",
+              "detail": "Un secreto empresarial enterrado puede conectar a los niños desaparecidos con Giggleland."
+            },
+            {
+              "label": "Lanzamiento",
+              "detail": "El juego completo llega el 26 de octubre de 2026 con el final completo."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Requisitos del sistema de Giggleland",
+          "description": "Comprueba los requisitos mínimos oficiales de PC, la versión de Windows compatible, el espacio de almacenamiento, los idiomas de audio y el estado en Steam Deck.",
+          "href": "/release/giggleland-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 o superior, 64 bits."
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i3 a 2,00 GHz o equivalente AMD."
+            },
+            {
+              "label": "RAM",
+              "detail": "4 GB de RAM."
+            },
+            {
+              "label": "GPU",
+              "detail": "NVIDIA GeForce 450 o superior con 1 GB de memoria."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "25 GB de espacio disponible."
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "La compatibilidad con Steam Deck aparece como Desconocida."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias y novedades de lanzamiento de Giggleland",
+          "description": "Sigue la fecha de lanzamiento de Giggleland, la disponibilidad de la demo, la duración de la campaña, la estructura de los capítulos y las indicaciones para emitir.",
+          "href": "/release/giggleland-latest-update",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "26 OCT",
+              "detail": "El lanzamiento de Giggleland está previsto para el 26 de octubre de 2026."
+            },
+            {
+              "label": "DEMO",
+              "detail": "Terry's Vegetable Patch ya está disponible en Steam."
+            },
+            {
+              "label": "6 HORAS",
+              "detail": "La campaña completa dura aproximadamente seis horas."
+            },
+            {
+              "label": "8 CAPÍTULOS",
+              "detail": "La historia va desde la granja de Farmer Terry hasta los túneles bajo el parque."
+            },
+            {
+              "label": "PC",
+              "detail": "Giggleland se lanza en PC con Windows a través de Steam."
+            },
+            {
+              "label": "DIRECTO",
+              "detail": "Captura la ventana del juego; no hace falta ningún modo streamer."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Giggleland",
+      "description": "Respuestas rápidas sobre la historia, la demo, la fecha de lanzamiento, la duración, el personaje principal y las reglas para emitir Giggleland.",
+      "items": [
+        {
+          "question": "¿Qué es Giggleland?",
+          "answer": "Giggleland es un juego de terror psicológico en primera persona ambientado en un parque de atracciones. Los jugadores guían a Tolie a través de ocho capítulos mientras busca a su padre desaparecido, resuelve puzles del entorno y descubre la historia detrás de las alegres mascotas del parque."
+        },
+        {
+          "question": "¿Hay una demo de Giggleland?",
+          "answer": "Sí. Giggleland: Terry's Vegetable Patch es una demo independiente y gratuita disponible en Steam e incluye una historia completa con su propio final."
+        },
+        {
+          "question": "¿Cuándo se estrena Giggleland?",
+          "answer": "Giggleland tiene previsto su lanzamiento el 26 de octubre de 2026 para PC con Windows a través de Steam."
+        },
+        {
+          "question": "¿Cuánto dura Giggleland?",
+          "answer": "La campaña de Giggleland dura unas seis horas repartidas en ocho capítulos, desde la granja de Farmer Terry hasta los túneles bajo el parque."
+        },
+        {
+          "question": "¿Quién es el personaje principal de Giggleland?",
+          "answer": "Tolie es la protagonista silenciosa de Giggleland. Ella busca a su padre desaparecido mientras Eliot es su alegre guía del parque."
+        },
+        {
+          "question": "¿Puedo transmitir Giggleland?",
+          "answer": "Sí. Giggleland se puede emitir y grabar sin modo streamer, siempre que captures la ventana del juego en lugar de todo tu escritorio."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para explorar Giggleland?",
+      "description": "Sigue a Tolie al parque de diversiones, resuelve sus puzles y descubre los secretos detrás de su padre desaparecido con nuestros guías comunitarios.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar a la demo en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Giggleland",
+    "overviewDescription": "Guías paso a paso, consejos para principiantes, ayuda con la demo, explicaciones de la historia y análisis de los finales para cada etapa de Giggleland."
+  },
+  "release": {
+    "overviewTitle": "Lanzamiento y novedades de Giggleland",
+    "overviewDescription": "Sigue la fecha de lanzamiento de Giggleland, el estado del juego completo, los rumores de cancelación y las últimas actualizaciones de desarrollo."
+  },
+  "secrets": {
+    "overviewTitle": "Secretos de Giggleland",
+    "overviewDescription": "Explora las pistas del ARG de Giggleland, finales ocultos, episodios secretos, capturas de pantalla y los sustos que te esperan dentro del parque."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Giggleland",
+    "overviewDescription": "Conoce a Tolie, Eliot, Ella, Farmer Terry y los monstruos relacionados con Giggleland Park y su misterio."
+  },
+  "safety": {
+    "overviewTitle": "Seguridad de Giggleland",
+    "overviewDescription": "Consulta las clasificaciones de edad de Giggleland, las dudas sobre la seguridad en PC, los rumores de virus y lo que deben saber los jugadores antes de descargarlo."
+  },
+  "media": {
+    "overviewTitle": "Multimedia de Giggleland",
+    "overviewDescription": "Mira los tráilers de Giggleland y el gameplay de la demo; después explora el fan art, las teorías y la canción principal."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Giggleland",
+    "overviewDescription": "Encuentra las comunidades de Discord y Reddit de Giggleland, sigue las noticias de los fans y descubre juegos como Giggleland."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Steam",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Giggleland Wiki",
+    "about": "Giggleland Wiki es un centro de guías independiente creado por fans que reúne guías, soluciones a los puzles, detalles de los personajes, pistas de la historia, finales y consejos para principiantes tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Giggleland Wiki. No está afiliada a los desarrolladores ni a los editores de Giggleland.",
+    "description": "Aventura de terror psicológico en primera persona. Explora el parque, resuelve los puzles y descubre el misterio.",
+    "playGame": "Jugar a la demo en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Web oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de personajes",
+    "bossGuides": "Guías de historia",
+    "buildGuide": "Secretos",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}
