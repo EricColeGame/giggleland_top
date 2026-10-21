@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Giggleland Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn controls, setup priorities, early exploration, and the habits that make Giggleland's first two hours smoother."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Demo Walkthrough",
+          "description": "Find the free Steam demo and use a practical checklist for your first visit to Terry's Vegetable Patch."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Puzzle Solutions",
+          "description": "Work through signs, notes, locked doors, and environmental clues without losing track of the story."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Story & Endings",
+          "description": "Follow Tolie's search, the history of Giggleland Park, and the clues shaping the game's ending."
         }
       ]
     },
@@ -62,265 +62,377 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Demo Walkthrough",
+        "Character Roster",
+        "PC Requirements"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Giggleland Beginner Guide",
+          "description": "Controls, setup priorities, exploration habits, and a practical plan for your first two hours in Giggleland.",
+          "href": "/guide/giggleland-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Demo",
+          "title": "Giggleland Demo Guide",
+          "description": "What to expect from Terry's Vegetable Patch and how to get the most from the free Steam demo.",
+          "href": "/guide/giggleland-demo-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Walkthrough",
+          "title": "Giggleland Walkthrough",
+          "description": "A spoiler-aware route through the park, its puzzles, and the ARG clues hidden around the demo.",
+          "href": "/guide/giggleland-walkthrough"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Characters",
+          "title": "Giggleland Characters",
+          "description": "Meet Tolie, Eliot, Ella, Farmer Terry, and the wider cast connected to the park mystery.",
+          "href": "/characters/giggleland-characters"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Story",
+          "title": "Giggleland Endings Explained",
+          "description": "Compare the major ending theories and the clues behind the mask, the park, and the missing children.",
+          "href": "/guide/giggleland-ending-explained"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Specs",
+          "title": "Giggleland PC Requirements",
+          "description": "Official minimum specs, storage needs, language support, and Steam Deck compatibility status.",
+          "href": "/release/giggleland-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Giggleland?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Giggleland is a first-person psychological horror game set in an amusement park where cheerful mascots and visitor rules hide a much darker story. Players guide Tolie, a silent child searching for her missing father, through eight chapters that move from Farmer Terry's farm to the tunnels beneath the park.",
+        "The game combines environmental exploration, puzzle-solving, hidden clues, and a fully voice-acted cast across roughly six hours. A free demo, Giggleland: Terry's Vegetable Patch, is available on Steam ahead of the October 26, 2026 release."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Psychological Horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Perspective",
+          "value": "First-Person"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Chapters",
+          "value": "8"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Runtime",
+          "value": "About 6 Hours"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Release",
+          "value": "Oct 26, 2026"
+        },
+        {
+          "label": "Demo",
+          "value": "Available Now"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Explore Giggleland Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Giggleland Wiki",
+      "description": "Use these Giggleland guides to plan your first session, solve park puzzles, follow the story, and check PC requirements before launch.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Giggleland Beginner Guide",
+          "description": "Learn controls, setup priorities, early exploration, and the habits that make Giggleland's first two hours smoother.",
+          "href": "/guide/giggleland-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Rebind anything you fumble, turn on subtitles, and raise effects above music."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Complete the intro without skipping; it teaches the interaction verbs used all game."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Walk the first area and name three landmarks to build navigation memory."
+            },
+            {
+              "label": "4",
+              "detail": "Practice one weapon or ability in a low-risk area before a tense encounter."
+            },
+            {
+              "label": "5",
+              "detail": "Pickups, diaries, and environment text carry puzzle clues and story context."
+            },
+            {
+              "label": "6",
+              "detail": "Return to locked doors and side rooms after every new item or key."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Giggleland Demo Guide",
+          "description": "Find the free Steam demo, compare it with the full game, and use a practical checklist for Terry's Vegetable Patch.",
+          "href": "/guide/giggleland-demo-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Demo",
+              "detail": "Giggleland: Terry's Vegetable Patch is a free standalone demo on Steam."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Story",
+              "detail": "The demo tells a self-contained story with an ending of its own."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Setting",
+              "detail": "Players explore one farm-themed attraction inside Giggleland Park."
+            },
+            {
+              "label": "Puzzles",
+              "detail": "The core loop combines exploration, puzzle-solving, and escape mechanics."
+            },
+            {
+              "label": "Runtime",
+              "detail": "The demo is short enough to finish in a single sitting."
+            },
+            {
+              "label": "Capture",
+              "detail": "Play windowed and test window capture before streaming or recording."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Giggleland Characters",
+          "description": "Meet the Giggleland cast and see how Tolie, Eliot, Ella, and the wider roster connect to the park's story.",
+          "href": "/characters/giggleland-characters",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Tolie: silent protagonist searching for her missing father."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Eliot: the park's cheerful guide and assistant host."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Ella: anthropomorphic dog and Eliot's best friend."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Farmer Terry, Debbie, Rory, Sarah, Simon, and Mr. T complete the roster."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Giggleland Puzzle Guide",
+          "description": "Work through signs, notes, locked doors, and environment clues with a spoiler-aware puzzle walkthrough.",
+          "href": "/guide/giggleland-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Park signage hides names, dates, and symbols used by later puzzles."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Check shelves, drawers, and desks for notes, diaries, and key items."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Inventory descriptions can hint at where an item belongs."
+            },
+            {
+              "label": "4",
+              "detail": "The demo loops back on itself, so new items open earlier doors."
+            },
+            {
+              "label": "5",
+              "detail": "Log symbols and number sequences as soon as they appear."
+            },
+            {
+              "label": "6",
+              "detail": "Explore side paths and rule-breaking interactions instead of rushing objectives."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Giggleland Story and Lore",
+          "description": "Follow the history of Giggleland Park, the Eliot and Ella cartoons, Debbie's diary, and the KMW mystery.",
+          "href": "/guide/giggleland-lore-explained",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Park",
+              "detail": "Giggleland Park pairs cheerful mascots with a darker history beneath the attraction."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Tolie",
+              "detail": "Tolie enters the park to find her missing father."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Eliot",
+              "detail": "Eliot greets visitors as the relentlessly cheerful guide."
+            },
+            {
+              "label": "Rules",
+              "detail": "Stay on the path, stay visible, and never open a Staff Only door."
+            },
+            {
+              "label": "KMW",
+              "detail": "Kids Media Workshop connects the cartoons, the ARG, and the park's backstory."
+            },
+            {
+              "label": "Diary",
+              "detail": "Debbie's hidden diary links the cartoon creators to the park and its missing children."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Giggleland Endings Explained",
+          "description": "Compare the main Giggleland ending theories and trace the clues behind the mask, the park, and the missing children.",
+          "href": "/guide/giggleland-ending-explained",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Mask",
+              "detail": "The mascot's smile may conceal something predatory beneath the park's cheer."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Park",
+              "detail": "The attraction may serve as a front for an experiment or corporate cover-up."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Loop",
+              "detail": "A cycle ending could reset the tour and force the story to repeat."
+            },
+            {
+              "label": "Identity",
+              "detail": "The protagonist may be the attraction being studied rather than a guest."
+            },
+            {
+              "label": "Cover-up",
+              "detail": "A buried company secret may connect the missing children to Giggleland."
+            },
+            {
+              "label": "Launch",
+              "detail": "The full game arrives on October 26, 2026 with the complete ending."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Giggleland System Requirements",
+          "description": "Check the official minimum PC specs, supported Windows version, storage footprint, audio languages, and Steam Deck status.",
+          "href": "/release/giggleland-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 or higher, 64-bit."
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i3 at 2.00 GHz or AMD equivalent."
+            },
+            {
+              "label": "RAM",
+              "detail": "4 GB RAM."
+            },
+            {
+              "label": "GPU",
+              "detail": "NVIDIA GeForce 450 or higher with 1 GB memory."
+            },
+            {
+              "label": "Storage",
+              "detail": "25 GB available space."
+            },
+            {
+              "label": "Deck",
+              "detail": "Steam Deck compatibility is listed as Unknown."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Giggleland News and Release Updates",
+          "description": "Track the Giggleland release date, demo availability, campaign length, chapter structure, and streaming guidance.",
+          "href": "/release/giggleland-latest-update",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OCT 26",
+              "detail": "Giggleland is scheduled to launch on October 26, 2026."
+            },
+            {
+              "label": "DEMO",
+              "detail": "Terry's Vegetable Patch is available now on Steam."
+            },
+            {
+              "label": "6 HOURS",
+              "detail": "The full campaign runs about six hours."
+            },
+            {
+              "label": "8 CHAPTERS",
+              "detail": "The story travels from Farmer Terry's farm to tunnels beneath the park."
+            },
+            {
+              "label": "PC",
+              "detail": "Giggleland launches on Windows PC through Steam."
+            },
+            {
+              "label": "STREAM",
+              "detail": "Capture the game window; no streamer mode is required."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Giggleland FAQ",
+      "description": "Quick answers about Giggleland's story, demo, release date, length, protagonist, and streaming rules.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Giggleland?",
+          "answer": "Giggleland is a first-person psychological horror game set in an amusement park. Players guide Tolie through eight chapters as she searches for her missing father, solving environmental puzzles and uncovering the history behind the park's cheerful mascots."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is there a Giggleland demo?",
+          "answer": "Yes. Giggleland: Terry's Vegetable Patch is a free standalone demo available on Steam, and it includes a complete story with its own ending."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "When does Giggleland release?",
+          "answer": "Giggleland is scheduled to launch on October 26, 2026 for Windows PC through Steam."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How long is Giggleland?",
+          "answer": "The Giggleland campaign runs for about six hours across eight chapters, moving from Farmer Terry's farm to the tunnels beneath the park."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Who is the main character in Giggleland?",
+          "answer": "Tolie is the silent protagonist of Giggleland. She searches for her missing father while Eliot serves as her cheerful park guide."
+        },
+        {
+          "question": "Can I stream Giggleland?",
+          "answer": "Yes. Giggleland is safe to stream and record without a streamer mode, provided you capture the game window instead of your entire desktop."
         }
       ]
     },
